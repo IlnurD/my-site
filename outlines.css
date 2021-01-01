@@ -17,6 +17,7 @@ header::before,
 footer::before,
 main::before {
   color: #7fc1ff;
+  color: #7fc1ff;
 }
 
 main,
